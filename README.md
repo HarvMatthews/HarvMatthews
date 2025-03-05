@@ -1,7 +1,7 @@
 <h1 align="center" class="heading-element">Harvey Matthews</h1>
 
-Computer Science student at University of Liverpool.
-Studying Object-Oriented Programming, Principles Of C / Memory Management and Advanced Artificial Intelligence.
+2nd Year University of Liverpool BSc Computer Science Student. Studying Object-Oriented Programming, Principles Of C / Memory Management and Advanced Artificial Intelligence.
+
 
 Always trying to further my understanding and abilities within software engineering through extracurricular projects.
 
