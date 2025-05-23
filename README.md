@@ -9,3 +9,5 @@ Always trying to further my understanding and abilities within software engineer
 <img src="https://github.com/user-attachments/assets/edc3b4ea-5346-4abc-bf39-087df92b4d4c" width="100"/>
 <img src="https://github.com/user-attachments/assets/ba1af051-fd82-4492-9350-9688f6bf0ed0" width="100"/>
 <img src="https://github.com/user-attachments/assets/986fc530-07d1-4d06-a6c6-6360602ed3ec" width="100"/>
+<img src="https://github.com/user-attachments/assets/b340ec78-d63f-4ac9-b792-2ae21fdda075" width="100"/>
+
